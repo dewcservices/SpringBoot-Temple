@@ -4,8 +4,7 @@
 
 The following presents an example of a CRUD (Create, Read, Update, Delete) RestAPI for a single database table. This example adheres to best practices in code organization, utilizing layers such as adaptor, controller, DTO, entity, service, and repository. Swagger is used to explain and demonstrate the RestAPI, highlighting the endpoints and the expected request and response formats.
 
-
-### TABLE:
+### DB TABLE:
 The table fields:
   
 - `id` (unique identifier for each record)
